@@ -1,8 +1,3 @@
-Got it! Here’s the final combined README.md that includes both the software (R model) and the hardware (ESP32 with sensors and ThingSpeak) aspects of your SmartClassroom project:
-
-⸻
-
-
 # SmartClassroom Comfort Level Prediction
 
 This project analyzes real-time environmental data from smart classrooms to assess and predict comfort levels. It combines a hardware IoT setup (built with ESP32 and sensors) with a machine learning model in R that classifies the comfort level into four categories based on temperature, humidity, and air quality (CO₂).
